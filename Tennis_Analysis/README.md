@@ -42,12 +42,14 @@ git clone https://github.com/Nikiloshen/tennis_analysis.git
 cd tennis_analysis
 # Install dependencies
 pip install -r requirements.txt
+```
 
 ## Usage
 To run the analysis system, execute the following command:
 
 ```bash
 python main.py
+```
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or want to report bugs, please open an issue or submit a pull request.
