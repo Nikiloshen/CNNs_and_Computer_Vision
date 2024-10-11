@@ -19,7 +19,6 @@ This project aims to build an AI/ML tennis analysis system using YOLO, PyTorch, 
 - 🧠 **Key Point Extraction**: Using PyTorch to extract court key points aids in understanding player positioning and movement relative to the court.
 - 📊 **Data Visualization**: The mini court representation consolidates performance data visually, making it easier to interpret during analysis.
 - ⚙️ **Modular Design**: The project structure promotes reusability and scalability of components, supporting future enhancements and additional features.
-- 🚀 **Career Advancement**: Completing this project can significantly enhance a developer’s portfolio, showcasing skills in AI/ML and computer vision applications.
 
 ## Player Statistics
 In addition to tracking players and balls, the system provides player statistics, including:
