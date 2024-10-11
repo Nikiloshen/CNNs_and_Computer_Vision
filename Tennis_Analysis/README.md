@@ -42,3 +42,19 @@ git clone https://github.com/Nikiloshen/tennis_analysis.git
 cd tennis_analysis
 # Install dependencies
 pip install -r requirements.txt
+
+## Usage
+To run the analysis system, execute the following command:
+
+```bash
+python main.py
+
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or want to report bugs, please open an issue or submit a pull request.
+
+## Acknowledgements
+YOLO (You Only Look Once) for object detection.
+PyTorch for machine learning and key point extraction techniques.
+Special thanks to the open-source community for their valuable resources and contributions.
+
+Feel free to customize any sections to better fit your project specifics or preferences!
