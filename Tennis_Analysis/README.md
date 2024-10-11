@@ -59,4 +59,4 @@ YOLO (You Only Look Once) for object detection.
 PyTorch for machine learning and key point extraction techniques.
 Special thanks to the open-source community for their valuable resources and contributions.
 
-Feel free to customize any sections to better fit your project specifics or preferences!
+# Feel free to customize any sections to better fit your project specifics or preferences!
