@@ -38,7 +38,7 @@ The insights gained from this project can enhance training strategies by identif
 To get started with the Tennis Analysis Project, clone the repository and follow the installation instructions:
 
 ```bash
-git clone https://github.com/yourusername/tennis-analysis.git
+git clone https://github.com/Nikiloshen/tennis-analysis.git
 cd tennis-analysis
 # Install dependencies
 pip install -r requirements.txt
