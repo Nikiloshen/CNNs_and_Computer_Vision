@@ -38,6 +38,7 @@ class PoseDetector():
                 lm_list.append([id, cx, cy])
                 if draw:
                    cv2.circle(img, (cx, cy), 8, (255,0,0), -1)
+        return lm_list
 
 
 def main():
