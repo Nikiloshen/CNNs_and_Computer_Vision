@@ -60,7 +60,7 @@ while True:
 
     cv2.rectangle(img, (50,150),(85,400), (0,255,0), 3)
     cv2.rectangle(img, (50,int(vol_bar)),(85,400), (0,255,0), -1)
-    cv2.putText(img, f"{int(vol_percentage)}", (20,50), cv2.FONT_HERSHEY_SIMPLEX, 1, (0,255,0), 2)
+    cv2.putText(img, f"{int(vol_percentage)}", (40,450), cv2.FONT_HERSHEY_SIMPLEX, 1, (0,255,0), 3)
 
     cTime = time.time()
     fps = 1/(cTime-pTime)
