@@ -40,7 +40,7 @@ Both projects require the following libraries and frameworks:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/CNNs-and-Computer-Vision.git
+    git clone https://github.com/Nikiloshen/CNNs-and-Computer-Vision.git
     ```
 2. Navigate to the `Pose_Estimation` folder and run the pose estimation model on a sample video or image:
     ```bash
