@@ -36,46 +36,9 @@ An interactive painting tool that allows you to draw on the screen using your fi
 
 All projects in this folder share similar dependencies:
 
-- TensorFlow / PyTorch (for deep learning models)
+- Mediapipe (google's library for detection)
 - OpenCV (for real-time video processing)
 - NumPy (for numerical computations)
-- Other dependencies can be found in `requirements.txt`.
-
-## Usage
-
-### Hand Detecting Project
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/Hand_Detection.git
-    ```
-2. Navigate to the `Hand_Detecting` folder and run the detection script:
-    ```bash
-    python hand_detect.py --input your_input_video.mp4
-    ```
-
-### VolumeHandController Project
-
-1. Ensure the **Hand Detecting Project** is set up and functioning.
-2. Navigate to the `VolumeHandController` folder and control your system volume using hand gestures:
-    ```bash
-    python volume_controller.py --input your_live_video_feed
-    ```
-
-### FingerCountingProject
-
-1. Make sure the **Hand Detecting Project** is properly set up.
-2. Navigate to the `FingerCountingProject` folder and start finger counting:
-    ```bash
-    python finger_counter.py --input your_live_video_feed
-    ```
-
-### VirtualPainter Project
-
-1. Ensure the **Hand Detecting Project** is working correctly.
-2. Navigate to the `VirtualPainter` folder and begin painting:
-    ```bash
-    python virtual_painter.py --input your_live_video_feed
-    ```
-
-You can change colors by raising your middle and index fingers and switch to the rubber tool when necessary.
+- os (for images used in project)
+- ctypes, comtypes, pycaw (for volume controller)
+- math (for math operations)
