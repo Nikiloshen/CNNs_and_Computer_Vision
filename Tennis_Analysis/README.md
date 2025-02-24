@@ -8,7 +8,6 @@ This project aims to build an AI/ML tennis analysis system using YOLO, PyTorch, 
 - 📏 **Performance Metrics**: Measure player speed and distance covered during matches.
 - ⚡ **YOLO Training**: Fine-tune the YOLO model for improved ball detection accuracy.
 - 🖼️ **Key Point Extraction**: Utilize PyTorch for extracting critical court key points.
-- 🏆 **Career Enhancement**: A valuable addition to your resume showcasing AI/ML expertise.
 - 🔄 **Object Tracking**: Implement continuous analysis through robust object tracking.
 - 📊 **Data Visualization**: Visualize performance metrics with a mini court representation.
 
